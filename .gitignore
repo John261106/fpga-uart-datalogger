@@ -1,0 +1,21 @@
+# Vivado project outputs & auto-generated files
+/vivado_project/
+*.log
+*.jou
+*.pb
+*.str
+*.dir/
+.Xil/
+
+# Generated runs, netlists, and bitstreams
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+*.xsa
+*.bit
+*.bin
+
+# System files
+.DS_Store
+Thumbs.db
